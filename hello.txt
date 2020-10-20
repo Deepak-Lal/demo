@@ -1,5 +1,14 @@
 hello this is new hello world
 this is second para
+<<<<<<< HEAD
 this is second para
 this is second para
 this is second para
+=======
+this is third para
+gg
+gg
+gg
+lll
+gg
+>>>>>>> alpha
